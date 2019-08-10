@@ -8,5 +8,5 @@ Library to fetch stock data from Google
 **2. pmdarima** <br/>
 Library to fit ARIMA model on time series data
 
-**3 dash** <br/>
+**3. dash** <br/>
 Library to build dashboard
